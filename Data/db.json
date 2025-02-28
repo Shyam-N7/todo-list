@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Revise DSA"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Revisit Webpage"
+    },
+    {
+      "id": "41",
+      "checked": true,
+      "item": "Practice AIML"
+    },
+    {
+      "id": "411",
+      "checked": true,
+      "item": "Learn Concepts"
+    }
+  ]
+}
